@@ -168,11 +168,8 @@ A playful web app that classifies users into campus tribes and generates custom 
 ## ❁ Education & Experience
 
 ### Education
-- **B.Tech in Computer Science & Engineering**  
-  IPS Academy IES, Indore
-
-- **BS in Data Science & Applications**  
-  IIT Madras
+- **B.Tech in Computer Science & Engineering** — IPS Academy IES, Indore
+- **BS in Data Science & Applications** — IIT Madras
 
 ### Roles
 - **Lead Developer** — Orion CLI
@@ -218,10 +215,6 @@ A playful web app that classifies users into campus tribes and generates custom 
 </a>
 
 <br/><br/>
-
-<img src="./assets/theme-art.png" width="100%" alt="Decorative footer artwork" />
-
-<br/>
 
 **Crafted with logic, design, and curiosity.**
 
