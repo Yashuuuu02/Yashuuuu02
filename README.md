@@ -1,281 +1,228 @@
-
-<!--
-  SHREYASH DANGE — GITHUB PROFILE
-  Theme: Minimal Black / White
-  GitHub: @Yashuuuu02
--->
-
 <div align="center">
 
-# SHREYASH DANGE
+<img src="./assets/theme-art.png" width="100%" alt="Decorative artistic theme banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Applied+AI+%7C+Developer+Tools+%7C+Engineering;Building+systems+that+work+beyond+the+demo.;Think+clearly.+Build+deliberately.+Ship+reliably." alt="Typing introduction" />
+# ✦ SHREYASH DANGE ✦
+
+### *Builder of systems, stories, and software.*
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3200&pause=1000&color=8C1D2C&center=true&vCenter=true&width=700&lines=Applied+AI+%E2%9C%A6+Developer+Tools+%E2%9C%A6+Full-Stack+Engineering;Designing+products+that+feel+thoughtful+and+work+reliably.;Building+with+logic%2C+craft%2C+and+curiosity." alt="Typing animation" />
 
 <br/>
 
 <a href="https://github.com/Yashuuuu02">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-5C0F1B?style=for-the-badge&logo=github&logoColor=F8E7D1" />
 </a>
 <a href="https://www.linkedin.com/in/shreyash-dange02/">
-  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-7A1E2C?style=for-the-badge&logo=linkedin&logoColor=F8E7D1" />
 </a>
 <a href="https://oriondev.in/">
-  <img src="https://img.shields.io/badge/ORION_CLI-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Orion-8B2C3B?style=for-the-badge&logo=gnubash&logoColor=F8E7D1" />
 </a>
 <a href="https://solarch.in/">
-  <img src="https://img.shields.io/badge/SOLARCH-111111?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solarch-6D1625?style=for-the-badge&logo=typescript&logoColor=F8E7D1" />
 </a>
 
 <br/><br/>
 
-`INDORE, INDIA` &nbsp; / &nbsp; `AI & SYSTEMS` &nbsp; / &nbsp; `ALWAYS BUILDING`
+`INDORE, INDIA` • `AI SYSTEMS` • `DEVELOPER TOOLS` • `CRAFTING USEFUL SOFTWARE`
 
 </div>
 
 ---
 
-## 01 / WHO AM I
+## ❁ About Me
 
-```python
-class ShreyashDange:
-    role = "Applied AI & Software Developer"
-    location = "Indore, India"
+I’m **Shreyash Dange**, a developer working at the intersection of **Applied AI**, **Developer Tooling**, and **Full-Stack Engineering**.
 
-    interests = [
-        "Artificial Intelligence",
-        "Developer Tooling",
-        "Backend & System Design",
-        "Full-Stack Engineering",
-        "Building Useful Products",
-    ]
+I enjoy building products that are not only technically sound but also feel *intentional* — software that is grounded in logic, shaped with care, and built to be useful in the real world.
 
-    philosophy = "Think clearly. Build deliberately. Ship reliably."
-```
+My work often moves through:
 
-I'm **Shreyash Dange**, a developer working at the intersection of **Artificial Intelligence, Developer Tools, and Full-Stack Engineering**.
+- **AI Agents & RAG Systems**
+- **Backend Architecture**
+- **Developer Tools & Automation**
+- **Product Engineering**
+- **System Design & Reliability**
 
-I build systems that go beyond prototypes — from RAG-based AI agents to developer infrastructure, backend systems, and real-world applications.
-
-What interests me most is the engineering behind great products: **reliability, architecture, scalability, user experience, and intelligent automation**.
+> **Think clearly. Build deliberately. Ship reliably.**
 
 ---
 
-## 02 / GITHUB STATISTICS
+## ❁ GitHub Reflection
 
 <div align="center">
 
-<!-- Automatically fetches public GitHub account statistics -->
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Yashuuuu02&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=4D0D18&title_color=F6D7B0&text_color=F3E8D7&icon_color=F0C98D&ring_color=F6D7B0" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Yashuuuu02&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=D1D1D1&icon_color=FFFFFF&ring_color=FFFFFF" alt="GitHub statistics" />
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yashuuuu02&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=D1D1D1" alt="Most used languages" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yashuuuu02&layout=compact&langs_count=8&hide_border=true&bg_color=4D0D18&title_color=F6D7B0&text_color=F3E8D7" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Yashuuuu02&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=D1D1D1&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Yashuuuu02&hide_border=true&background=4D0D18&ring=F6D7B0&fire=F6D7B0&currStreakLabel=F6D7B0&sideLabels=F3E8D7&dates=CFAF8C&currStreakNum=FDF3E3&sideNums=FDF3E3" alt="GitHub Streak" />
 
 </div>
 
-> Statistics are generated from my GitHub profile and update automatically, subject to the providers' caching and API limits. Public commit totals and contribution counts are different measurements.
+> These cards automatically pull my public GitHub activity and stats.
 
 ---
 
-## 03 / THE TECHNOLOGY STACK
+## ❁ Tools I Work With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,go,rust,cpp,c,react,nextjs,svelte,vue,flutter,fastapi,nodejs,express,django,postgres,sqlite,pytorch,cloudflare,git,github&theme=dark&perline=11" alt="Tech Stack" />
+
+</div>
 
 ### Languages
+`Python` `TypeScript` `JavaScript` `Go` `Rust` `C++` `C`
 
-<div align="center">
+### AI / ML
+`LLMs` `RAG` `LangChain` `LangGraph` `DeepAgents` `PyTorch` `XGBoost` `Isolation Forest`
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,go,rust,cpp,c&theme=dark&perline=7" alt="Programming languages" />
+### Frontend
+`React` `Next.js` `Svelte` `Vue` `Flutter` `HTML` `CSS`
 
-</div>
+### Backend
+`FastAPI` `Express.js` `Django` `Node.js`
 
-### Frontend & Application Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,vue,flutter,html,css&theme=dark&perline=7" alt="Frontend stack" />
-
-</div>
-
-### Backend & Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django,postgres,sqlite&theme=dark&perline=6" alt="Backend and database stack" />
-
-</div>
-
-### Cloud, Infrastructure & Developer Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cloudflare,gcp,git,github,docker,pytorch&theme=dark&perline=6" alt="Developer infrastructure" />
-
-</div>
-
-### AI / Machine Learning
-
-| Domain | Technologies |
-|:--|:--|
-| **LLMs & Agents** | LLMs, AI Agents, LangChain, LangGraph, DeepAgents |
-| **Retrieval Systems** | RAG, Multi-Hop RAG, Vector Search, Chroma, Pinecone, Qdrant |
-| **Machine Learning** | PyTorch, XGBoost, Isolation Forest |
-| **Research** | Reinforcement Learning, Contextual Bandits, Explainable AI |
-| **Engineering** | Model Evaluation, Prompt Engineering, Data Governance |
+### Databases & Infra
+`PostgreSQL` `SQLite` `Chroma` `Pinecone` `Qdrant` `Cloudflare` `Git` `GitHub`
 
 ---
 
-## 04 / SELECTED WORK
+## ❁ Selected Work
 
-### 01. Orion CLI
+### ✦ Orion CLI
+**AI Coding Assistant & Developer Automation Tool**
 
-**AI Coding Assistant & Developer Automation**
+A developer-focused tool built around automation, workflows, and intelligent CLI experiences.
 
-An open-source developer tool focused on improving software engineering workflows through intelligent automation and CLI-based interaction.
-
-`Go` `Rust` `AI` `CLI` `Developer Tools`
+**Stack:** `Go` `Rust` `CLI` `Automation` `AI`
 
 [Explore Orion](https://oriondev.in/)
 
 ---
 
-### 02. Solarch
-
+### ✦ Solarch
 **Open-Source Backend-as-a-Service**
 
-Developer infrastructure offering authentication, SQLite, file storage, WebSockets, and administrative tooling.
+Authentication, SQLite, file storage, WebSockets, and admin tooling — built as developer infrastructure.
 
-**5,000+ npm downloads.**
+**Highlights:** `5,000+ npm downloads`
 
-`TypeScript` `Backend` `SQLite` `WebSockets` `Infrastructure`
+**Stack:** `TypeScript` `Backend` `Infra` `SQLite`
 
-[Website](https://solarch.in/) · [GitHub Repository](https://github.com/xvertere-org/Solarch)
+[Website](https://solarch.in/) • [GitHub](https://github.com/xvertere-org/Solarch)
 
 ---
 
-### 03. Neo — AI Agent
-
+### ✦ Neo — AI Agent
 **Multi-Hop Retrieval-Augmented Intelligence**
 
-An AI agent using multi-hop RAG architecture to provide context-aware, organization-specific responses grounded in a dedicated knowledge base.
+A context-aware AI agent built around domain-specific retrieval and grounded response generation.
 
-`AI Agents` `RAG` `LLMs` `Knowledge Retrieval`
+**Stack:** `RAG` `AI Agents` `LLMs` `Knowledge Systems`
 
 [GitHub Repository](https://github.com/Yashuuuu02/neo)
 
 ---
 
-### 04. Avekshak — SIH
+### ✦ Avekshak — SIH
+**AI-Driven Digital Twin for UAV Engine Monitoring**
 
-**AI-Powered Digital Twin for UAV Engines**
+A digital twin concept for health analysis, fault prediction, and mission reliability improvement.
 
-An intelligent digital twin concept designed for health monitoring, fault prediction, and mission reliability analysis of aero-piston engines used in UAV systems.
-
-`Machine Learning` `Digital Twin` `Predictive Maintenance` `System Design`
+**Stack:** `AI/ML` `Digital Twin` `Predictive Systems`
 
 ---
 
-### 05. Aadhaar Netra
+### ✦ Aadhaar Netra
+**Explainable & Privacy-Preserving Data Governance**
 
-**Explainable, Privacy-Preserving Data Governance**
+A deterministic and auditable system for prioritizing districts through transparent mathematical metrics.
 
-A deterministic data governance pipeline that prioritizes districts for biometric update camps through auditable mathematical metrics.
-
-`Python` `Explainable AI` `Data Governance` `Analytics`
+**Stack:** `Python` `Explainable AI` `Analytics` `Governance`
 
 [GitHub Repository](https://github.com/xvertere-org/Aadhaar-Netra)
 
 ---
 
-### 06. Fresher OS
+### ✦ Fresher OS
+**Interactive Student Experience**
 
-**Meet Your Tribe**
+A playful web app that classifies users into campus tribes and generates custom fresher cards.
 
-An interactive student-focused web experience that classifies users into campus tribes through a personality-driven questionnaire and generates personalized Fresher Cards.
-
-`Frontend` `Interactive Web` `UI/UX` `Product Development`
+**Stack:** `Frontend` `Interactive Web` `Product Design`
 
 [Live Website](https://fresher-os.pages.dev/)
 
 ---
 
-### More Work
-
-[Real Estate Demo](https://realestatedemo-project.vercel.app/) · [koolur](https://github.com/Jay-Suryawansh7/koolur) · [lockguard](https://github.com/Jay-Suryawansh7/lockguard)
-
-*Selected projects include collaborative team contributions.*
+### More
+[Real Estate Demo](https://realestatedemo-project.vercel.app/) • [koolur](https://github.com/Jay-Suryawansh7/koolur) • [lockguard](https://github.com/Jay-Suryawansh7/lockguard)
 
 ---
 
-## 05 / EDUCATION & EXPERIENCE
+## ❁ Education & Experience
 
-**Computer Science & Data Science**
+### Education
+- **B.Tech in Computer Science & Engineering**  
+  IPS Academy IES, Indore
 
-- **B.Tech — Computer Science & Engineering**  
-  IPS Academy IES, Indore | 2025–2029
+- **BS in Data Science & Applications**  
+  IIT Madras
 
-- **BS — Data Science & Applications**  
-  Indian Institute of Technology Madras | 2025–Present
-
-**Engineering & Leadership**
-
-- Lead Developer — **Orion CLI**
-- Technical Lead — **Smart India Hackathon 2026 Team**
-- Marketing Executive — **Entrepreneurship Cell, IPS Academy**
+### Roles
+- **Lead Developer** — Orion CLI
+- **Technical Lead** — SIH 2026 Team
+- **Marketing Executive** — E-Cell, IPS Academy
 
 ---
 
-## 06 / ACHIEVEMENTS
+## ❁ Achievements
 
-| Achievement | Recognition |
+| Recognition | Result |
 |:--|:--|
 | AI Manthan Hackathon 2025 | **2nd Place** |
 | VyapaarX 3.0 | **3rd Place** |
 | Solarch | **5,000+ npm downloads** |
-| Orion CLI | **Open-source AI developer tooling** |
 
 ---
 
-## 07 / CURRENTLY EXPLORING
+## ❁ What I’m Exploring
 
 ```text
-[01]  AI agents and reliable retrieval systems
-[02]  Developer tools, CLIs, and automation
-[03]  Offline-first application architectures
-[04]  Production-grade backend systems
-[05]  User interfaces and product engineering
-[06]  ML evaluation and explainable AI
+✦ AI agents and trustworthy retrieval systems
+✦ Developer tools and software automation
+✦ Offline-first and resilient application design
+✦ Production-grade backend engineering
+✦ Interfaces that feel thoughtful and intentional
+✦ Explainable AI and evaluation systems
 ```
-
-I care about building technology that doesn't just look impressive — it solves real problems.
 
 ---
 
-## 08 / CONNECT
+## ❁ Connect
 
 <div align="center">
 
-**Have an interesting problem worth solving?**
-
-I'm always interested in good engineering, useful products, and ambitious technical ideas.
-
-<br/>
+### *Let’s build something meaningful.*
 
 <a href="https://github.com/Yashuuuu02">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore_My_Work-5C0F1B?style=for-the-badge&logo=github&logoColor=F8E7D1" />
 </a>
-
 <a href="https://www.linkedin.com/in/shreyash-dange02/">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-7A1E2C?style=for-the-badge&logo=linkedin&logoColor=F8E7D1" />
 </a>
 
 <br/><br/>
 
----
+<img src="./assets/theme-art.png" width="100%" alt="Decorative footer artwork" />
 
-<sub>DESIGN THOUGHTFULLY. BUILD DELIBERATELY. SHIP RELIABLY.</sub>
+<br/>
 
-<sub>© SHREYASH DANGE</sub>
+**Crafted with logic, design, and curiosity.**
 
 </div>
