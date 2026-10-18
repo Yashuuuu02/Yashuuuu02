@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="240" viewBox="0 0 610 240" role="img" aria-labelledby="title desc">
+<title id="title">GITHUB / PUBLIC METRICS</title><desc id="desc">Awaiting GitHub Actions</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#152126"/><stop offset="1" stop-color="#0A151B"/></linearGradient></defs>
+<rect width="609" height="239" x=".5" y=".5" rx="20" stroke="#294C49" fill="url(#bg)" />
+<path d="M 26 58 H 584" stroke="#34544D" stroke-width="1"/>
+<text x="26" y="38" font-family="monospace" font-size="17" fill="#CBFF78">GITHUB / PUBLIC METRICS</text>
+<text x="27" y="106" font-family="Arial, sans-serif" font-weight="bold" font-size="27" fill="#F0F7EE">SYNC PENDING</text>
+<text x="27" y="146" font-family="Arial, sans-serif" font-size="17" fill="#9EBCB5">First GitHub Actions refresh will fill in real stats.</text>
+<text x="27" y="185" font-family="Arial, sans-serif" font-size="14" fill="#7DE2D5">No invented metrics · GitHub API powered</text>
+</svg>

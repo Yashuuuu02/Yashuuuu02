@@ -1,0 +1,66 @@
+name: Refresh GitHub profile statistics
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/workflows/update-profile-stats.yml
+      - scripts/update_stats.py
+  schedule:
+    - cron: '23 3,15 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate public GitHub stats SVG
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: 'username=Yashuuuu02&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=091115&title_color=CBFF78&text_color=EAF4EC&icon_color=7DE2D5&ring_color=CBFF78'
+          path: assets/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages SVG
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: 'username=Yashuuuu02&layout=compact&langs_count=8&hide_border=true&bg_color=091115&title_color=CBFF78&text_color=EAF4EC'
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate owned-repository snapshot
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_stats.py --user Yashuuuu02
+
+      - name: Commit changed statistics (if any)
+        run: |
+          git add assets/github-stats.svg assets/top-langs.svg assets/metrics.svg
+          if git diff --cached --quiet; then
+            echo "Statistics unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh GitHub profile metrics"
+          git push
