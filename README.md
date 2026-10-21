@@ -172,7 +172,6 @@ A playful web app that classifies users into campus tribes and generates custom 
 - **BS in Data Science & Applications** — IIT Madras
 
 ### Roles
-- **Lead Developer** — Orion CLI
 - **Technical Lead** — SIH 2026 Team
 - **Marketing Executive** — E-Cell, IPS Academy
 
@@ -180,10 +179,6 @@ A playful web app that classifies users into campus tribes and generates custom 
 
 ## ❁ Achievements
 
-| Recognition | Result |
-|:--|:--|
-| AI Manthan Hackathon 2025 | **2nd Place** |
-| VyapaarX 3.0 | **3rd Place** |
 | Solarch | **5,000+ npm downloads** |
 
 ---
